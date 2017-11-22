@@ -10,7 +10,7 @@ namespace AbstractFactory
     {
         public void draw()
         {
-            Console.WriteLine("Inside Circle::draw() method.");
+            Console.WriteLine("Inside Circle::draw() method..");
         }
     }
 }
